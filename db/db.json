@@ -1,18 +1,9 @@
 [
- 3,
+
  {
-  "title": "Hello world",
-  "text": "I need to understand servers and logics better",
+  "title": "Hello Grader",
+  "text": "I need to understand servers and logics better, this was very hard. ",
   "id": 0
  },
- {
-  "title": "dsfasdfasdf",
-  "text": "asdfasdfasdf",
-  "id": 1
- },
- {
-  "title": "asdfasdfasdfasdfasdfsa",
-  "text": "dfsafasdfasdfasdf",
-  "id": 2
- }
+ 
 ]
